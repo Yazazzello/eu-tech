@@ -1,0 +1,2 @@
+rootProject.name='Eurail Tech'
+include ':app'

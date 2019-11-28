@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_countdown"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_counter" />
+
+    <item
+        android:id="@+id/navigation_local_storage"
+        android:icon="@drawable/ic_baseline_sd_storage_24"
+        android:title="@string/title_storage" />
+
+    <item
+        android:id="@+id/navigation_webview"
+        android:icon="@drawable/ic_baseline_web_24"
+        android:title="@string/title_div_counter" />
+</menu>

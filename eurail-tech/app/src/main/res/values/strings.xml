@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eurail Tech</string>
+
+    <string name="title_home">Map</string>
+    <string name="title_counter">Countdown</string>
+    <string name="title_div_counter">WebView</string>
+    <string name="title_storage">Local Storage</string>
+    <string name="counter_template">Counter is %s</string>
+    <string name="distance_template">Distance is %.3f km</string>
+    <string name="error_grant_permissions_in_settings">Please, grant the permission in the settings</string>
+    <string name="error_network_connection_issue">network connection issue</string>
+    <string name="div_counter_template"><![CDATA[Amount of \'<div>\' = %s]]></string>
+    <string name="mapbox_access_token">PASTE_ACCESS_TOKEN_HERE</string>
+
+</resources>
